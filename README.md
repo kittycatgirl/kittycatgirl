@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ana Paula :)
-- 👀 I’m interested in robots;
-- 🌱 I’m currently learning java, c#, javascript, html e css;
-- 💞️ I’m looking to collaborate on anything;
-- 📫 How to reach me: email - anadasilva03@yahoo.com
+- 🌸 Hello, I’m Ana Paula Sousa da Silva
+- 🌸 I’m interested in data analysis, machine learning and back-end development
+- 🌸 I’m currently learning JAVA, PYTHON, JavaScript, HTML and CSS
+- 🌸 I’m looking to contribute and learn
+- 🌸 How to reach me: email - anadasilva03@yahoo.com
 
 <!---
 kittycatgirl/kittycatgirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
