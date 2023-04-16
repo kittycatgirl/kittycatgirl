@@ -1,6 +1,6 @@
 - 🌸 Oi, me chamo Ana Paula Sousa da Silva
-- 🌸 Tenho interesse em data analysis, machine learning and back-end development
-- 🌸 Aprendendo JAVA, PYTHON, JavaScript, HTML and CSS
+- 🌸 Tenho interesse em análise de dados, machine learning e desenvolvimento back-end
+- 🌸 Aprendendo JAVA, PYTHON, DJANGO, HTML e CSS
 - 🌸 Procurando contribuir e aprender
 - 🌸 Contato: email - anadasilva03@yahoo.com
 
