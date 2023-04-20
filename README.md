@@ -1,7 +1,7 @@
 # Oi, me chamo Ana Paula Sousa da Silva! 😄
 - 🌸 Atualmente trabalho como configuradora de relatórios e estou na 2º fase da graduação de Bacharelado em Engenharia de Software
 - 🌸 Tenho interesse em análise de dados, machine learning e desenvolvimento back-end
-- 🌸 Aprendendo por minha conta JAVA, PYTHON, DJANGO, HTML e CSS
+- 🌸 Aprendendo por minha conta JAVA, PYTHON, JAVASCRIPT, HTML e CSS
 - 🌸 Procurando no geral contribuir e aprender bastante
 - 🌸 Contato: email - anadasilva03@yahoo.com
 
