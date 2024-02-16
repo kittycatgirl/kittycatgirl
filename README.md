@@ -1,5 +1,5 @@
 #   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFB6C1&size=35&center=true&vCenter=true&width=1000&lines=Hi,+Ana+Paula+Sousa+da+Silva+here+:%29)](https://git.io/typing-svg)
-<hr>
+
 
 <img align="right" width="35%" src="https://github.com/kittycatgirl/kittycatgirl/blob/main/tumblr_0c86dd88d8d9d4be0096aa8c4ce5dbf3_f8d57ca0_640.webp"/>
 <div style="display: inline_block"><br><br>
